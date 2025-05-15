@@ -38,3 +38,12 @@ With version control, it is possible to:
 - `git branch`: [Shows all the lists of branches aswell as creating new branches]
 - `git merge`: [Combines branches]
 - `git checkout`: [Used to switch between branches]
+
+## My Unique Touch
+
+There are things that set me apart from others:
+
+- I play on a pro airsoft team
+- I am an amateur boxer
+- I play piano
+- I have a custom keyboard business 
