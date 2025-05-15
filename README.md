@@ -25,3 +25,16 @@ With version control, it is possible to:
 - Track changes
 - Backup and recovery
 - Risk mitigation
+
+## Purpose of the following Git Commands
+
+- `git init`: [Used to initialize git repositories]
+- `git status`: [Used to check the current status of your git repository]
+- `git add`: [Used to add new changes in the repository right before committing]
+- `git commit`: [Used to create a memorable record of each change you make to the repository]
+- `git push`: [Used after committing. Uploading local changes to a remote repository]
+- `git pull`: [Download content from a remote repository onto a local repository]
+- `git log`: [Displays the commit hisotry]
+- `git branch`: [Shows all the lists of branches aswell as creating new branches]
+- `git merge`: [Combines branches]
+- `git checkout`: [Used to switch between branches]
