@@ -16,3 +16,12 @@ nothing to commit, working tree clean]
 - `cd`: [Used to change directories]
 - `code`: [Used to open VS code and create a repository]
 - `ls`: [Used to manage and navigating files]
+
+## Why Version Control is Important
+
+With version control, it is possible to:
+
+- View project history
+- Track changes
+- Backup and recovery
+- Risk mitigation
